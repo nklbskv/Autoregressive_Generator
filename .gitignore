@@ -1,0 +1,17 @@
+/.bash_history
+/.bashrc
+/.cache
+/.config
+/.dotnet
+/.ipython
+/.jupyter
+/.local
+/.nv
+/.vscode-server
+/Master Thesis
+/opt
+/poisson_data.npy
+/poisson_transformer.pth
+/seqs.npy
+/src
+/venvs
